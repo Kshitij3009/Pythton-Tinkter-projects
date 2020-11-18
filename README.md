@@ -1,2 +1,2 @@
 #Python tinkter projects
-this is the first repository
+This contains basic pyhton projects build using tkinter 
